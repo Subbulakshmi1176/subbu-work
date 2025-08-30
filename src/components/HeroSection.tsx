@@ -37,7 +37,7 @@ const HeroSection = () => {
                   <span className="text-primary">Subbulakshmi E</span>
                   <div className="absolute -bottom-2 left-0 w-full h-1 bg-gradient-primary rounded-full"></div>
                 </span>
-                <br />
+                {" "}
                 <span className="text-2xl sm:text-3xl lg:text-4xl text-muted-foreground font-normal">
                   a Final-Year{" "}
                 </span>
