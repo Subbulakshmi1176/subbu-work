@@ -32,17 +32,17 @@ const HeroSection = () => {
             
             <div className="space-y-6 animate-fade-in" style={{ animationDelay: '0.2s' }}>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">
-                Hi, I'm{" "}
+                I'm{" "}
                 <span className="relative">
                   <span className="text-primary">Subbulakshmi E</span>
                   <div className="absolute -bottom-2 left-0 w-full h-1 bg-gradient-primary rounded-full"></div>
                 </span>
                 {" "}
                 <span className="text-2xl sm:text-3xl lg:text-4xl text-muted-foreground font-normal">
-                  a Final-Year{" "}
+                  a final year{" "}
                 </span>
                 <span className="bg-gradient-primary bg-clip-text text-transparent font-bold">
-                  AI & Data Science Student
+                  AI& Data Science Student
                 </span>
               </h1>
               
