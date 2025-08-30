@@ -125,7 +125,7 @@ const HeroSection = () => {
               <div className="absolute -bottom-6 -left-6 group" style={{ animationDelay: '1s' }}>
                 <div className="flex items-center gap-2 bg-card border border-border/50 px-4 py-3 rounded-2xl text-sm font-semibold shadow-large animate-float hover:scale-110 transition-transform cursor-default">
                   <Code className="w-4 h-4 text-primary" />
-                  Full Stack Developer
+                  Java Developer
                 </div>
               </div>
               
