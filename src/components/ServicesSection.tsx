@@ -5,7 +5,6 @@ import {
   Database, 
   Bot, 
   Smartphone, 
-  Palette, 
   Shield,
   ArrowRight,
   CheckCircle
@@ -60,18 +59,6 @@ const ServicesSection = () => {
         "Order Management"
       ],
       color: "bg-orange-500/10 border-orange-500/20"
-    },
-    {
-      title: "UI/UX Design",
-      description: "Creating beautiful, intuitive interfaces with modern design principles and user-centered approach for optimal experience.",
-      icon: <Palette className="h-8 w-8" />,
-      features: [
-        "User Research",
-        "Wireframing",
-        "Prototyping",
-        "Design Systems"
-      ],
-      color: "bg-pink-500/10 border-pink-500/20"
     },
     {
       title: "Security & Authentication",
