@@ -5,7 +5,6 @@ import {
   Database, 
   Bot, 
   Smartphone, 
-  Shield,
   ArrowRight,
   CheckCircle
 } from "lucide-react";
@@ -59,18 +58,6 @@ const ServicesSection = () => {
         "Order Management"
       ],
       color: "bg-orange-500/10 border-orange-500/20"
-    },
-    {
-      title: "Security & Authentication",
-      description: "Implementing robust security measures and authentication systems to protect user data and ensure application integrity.",
-      icon: <Shield className="h-8 w-8" />,
-      features: [
-        "Secure Authentication",
-        "Data Protection",
-        "SSL Integration",
-        "Security Audits"
-      ],
-      color: "bg-red-500/10 border-red-500/20"
     }
   ];
 
